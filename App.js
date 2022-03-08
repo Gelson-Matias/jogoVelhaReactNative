@@ -76,7 +76,7 @@ export default function App() {
         </TouchableOpacity>
         <StatusBar style="auto" />
       </View>
-      <Text style={styles.textRodape}>© 2022 Dev. Gelson Matias</Text>
+      <Text style={styles.textRodape}>© 2022 Dev. Gelson de Oliveira Matias</Text>
     </View>
   );
   }
