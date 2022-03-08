@@ -12,7 +12,6 @@ export default function App() {
   function inicioJogo(jagador) {
     setJogadorAtual(jagador)
     setJogadaRestante(9)
-
     setTabuleiro([
           ['','',''], 
           ['','',''], 
