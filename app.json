@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "jogoVelhaReactNative",
+    "slug": "jogoVelhaReactNative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.gelsonmatias.jogoVelhaReactNative"
+    }
+  },
+  "name": "jogoVelhaReactNative",
+  "android": {
+    "package": "com.trySofty.CalculadoraGelson",
+    "versionCode": 1
+  }
+}
